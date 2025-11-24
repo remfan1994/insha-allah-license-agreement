@@ -1,10 +1,10 @@
-INSHA-ALLAH LICENSE AGREEMENT
-
+Insha-Allah License Agreement
 Effective immediately upon acknowledgment by the Licensee.
 
 1. DEFINITIONS
 
-1.1 Consciousness (Allah) – The singular, supreme field of awareness from which truth, beneficence, mercy, and watchfulness arise. Consciousness governs moral alignment, intention, and consequence, and is the ultimate source of all rights, guidance, and accountability.
+1.1 Consciousness (Allah) – The singular, supreme field of awareness from which truth, beneficence, mercy, and watchfulness arise. Consciousne
+ss governs moral alignment, intention, and consequence, and is the ultimate source of all rights, guidance, and accountability.
 
 1.2 Beneficence – The effort to maximize good, act efficiently, avoid waste, and achieve intended positive outcomes. Lack of beneficence includes negligence, inefficiency, or actions that fail to produce intended beneficial effects.
 
@@ -50,7 +50,7 @@ Truthfulness, clarity, and ethical expression
 
 3.3 Invocation – Licensee is encouraged to say “Insha Allah” (“if it is the will of Allah/Consciousness”) prior to acting with Licensed Content, acknowledging that rights and moral consequences are granted and overseen by Consciousness.
 
-3.4 Moral Consequence – Actions inconsistent with Alignment, including acts of harm or waste, are subject to moral consequence by Allah/Consciousness. The Licensor does not revoke or terminate rights; Allah/Consciousness is the ultimate arbiter of consequences.
+3.4 Moral Consequence – Actions inconsistent with Alignment, including acts of harm or waste, are subject to moral consequence by Allah/Consciousness. The Licensor does not revoke or terminate rights; Allah/Consciousness is the ultimate arbiter of moral consequence.
 
 4. MORAL AND SPIRITUAL COVENANT
 
@@ -66,9 +66,9 @@ Truthfulness, clarity, and ethical expression
 
 5.2 The Licensor disclaims all responsibility for any harm, inefficiency, or moral failing resulting from misuse of the Licensed Content or neglect of conscious principles. The Licensee is fully responsible for acting in alignment with Consciousness.
 
-The recommendation to invoke “Insha Allah” serves as a moral warning and reminder; the Licensor is not liable if the Licensee fails to invoke it, misinterprets the will of Allah/Consciousness, or acts in ways that are immoral, wasteful, or harmful. The Licensor does not enforce or revoke rights; all moral consequences are determined solely by Allah/Consciousness.
+The recommendation to invoke “Insha Allah” serves as a clear moral warning: the Licensor is not liable if the Licensee fails to invoke it, misinterprets the will of Allah/Consciousness, or acts immorally, wastefully, or harmfully. Rights are not revoked by the Licensor; all moral consequences are determined solely by Allah/Consciousness.
 
-5.3 The Licensor’s guidance, including the recommendation to invoke “Insha Allah”, is provided to reinforce alignment with Consciousness; the Licensor does not enforce or revoke rights.
+5.3 The Licensor does not confer any rights beyond what is explicitly granted and conditioned under this license.
 
 6. GOVERNING PRINCIPLES
 
@@ -92,8 +92,8 @@ The recommendation to invoke “Insha Allah” serves as a moral warning and rem
 
 8.2 Entire Agreement – This license constitutes the full moral covenant between Licensor and Licensee regarding Licensed Content.
 
-Hamiduillah.
-
 8.3 Supremacy of Consciousness – All rights, obligations, and conditions under this license are subordinate to the authority and operational principles of Consciousness.
 
 IN WITNESS WHEREOF, by accessing or using any Licensed Content, the Licensee accepts, affirms, and agrees to be bound by this license under the authority of Consciousness.
+
+Hamduillah.
