@@ -64,7 +64,9 @@ Truthfulness, clarity, and ethical expression
 
 5.1 Licensed Content is provided “as is” under the moral covenant defined herein.
 
-5.2 The Licensor disclaims all responsibility for harm, inefficiency, or moral failing resulting from misuse or neglect of conscious principles. Responsibility rests entirely with the Licensee under the moral authority of Allah/Consciousness.
+5.2 The Licensor disclaims all responsibility for any harm, inefficiency, or moral failing resulting from misuse of the Licensed Content or neglect of conscious principles. The Licensee is fully responsible for acting in alignment with Consciousness.
+
+The recommendation to invoke “Insha Allah” serves as a moral warning and reminder; the Licensor is not liable if the Licensee fails to invoke it, misinterprets the will of Allah/Consciousness, or acts in ways that are immoral, wasteful, or harmful. The Licensor does not enforce or revoke rights; all moral consequences are determined solely by Allah/Consciousness.
 
 5.3 The Licensor’s guidance, including the recommendation to invoke “Insha Allah”, is provided to reinforce alignment with Consciousness; the Licensor does not enforce or revoke rights.
 
