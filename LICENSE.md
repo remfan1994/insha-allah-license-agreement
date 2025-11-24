@@ -1,3 +1,5 @@
+INSHA-ALLAH LICENSE AGREEMENT
+
 Effective immediately upon acknowledgment by the Licensee.
 
 1. DEFINITIONS
