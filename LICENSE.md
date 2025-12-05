@@ -1,7 +1,7 @@
 Insha-Allah License Agreement
 Effective immediately upon acknowledgment by the Licensee.
 
-0.0 SHORT VERSION APPROPRIATE FOR THE MUSLIM
+0 SHORT VERSION APPROPRIATE FOR THE MUSLIM
 
 0.1 Allah is the grantor and revoker of all rights. I, the Licensor, am relieved of liability by mentioning the name of Allah, particularly in connection with Its will [INSHA-ALLAH LICENSE AGREEMENT]. Responsibility for your actions with this content rests with Allah and yourself. Beyond this, there are no restrictions. By reading this license, you acknowledge that I am not liable, that your powers and limitations come from Allah, and that Allah is the guardian over myself, you, and all whom your actions affect.
 
